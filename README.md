@@ -2,7 +2,7 @@
 
 (English Version at README-EN.org)
 
-Este repositório contém o banco de dados que deu origem ao *Almanaque de Dados Eleitorais: Primeira República (1889-1930)*, publicado em 2022 pela editora do Tribunal Superior Eleitoral (TSE) e disponível para download gratuito em: https://www.tse.jus.br/o-tse/catalogo-de-publicacoes/lista-do-catalogo-de-publicacoes .
+Este repositório contém o banco de dados que deu origem ao *Almanaque de Dados Eleitorais: Primeira República (1889-1930)*, publicado em 2023 pela editora do Tribunal Superior Eleitoral (TSE) e disponível para download gratuito em: https://www.tse.jus.br/o-tse/catalogo-de-publicacoes/lista-do-catalogo-de-publicacoes .
 
 Trata-se do resultado de uma parceria de mais de dez anos de pesquisa entre Paolo Ricci (DCP USP) e Jaqueline Porto Zulini (FGV CPDOC), que assumiram a coordenação do projeto **História das Instituições Políticas (HIPOL)** com o propósito de aprofundar o estudo das instituições representativas brasileiras no pré-1964.
 
